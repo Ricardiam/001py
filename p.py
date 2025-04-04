@@ -4,4 +4,5 @@ if a > 5:
 else:
     while a <= 5:
         print(a)  # Imprime el valor actual
-        a = a + 1  # Incrementa en 1
+        a = a - 1  # Incrementa en 1
+        
